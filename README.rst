@@ -1,6 +1,8 @@
 
 .. contents:: :local:
 
+Bitcoin Library Project
+
 Introduction
 ---------------
 
